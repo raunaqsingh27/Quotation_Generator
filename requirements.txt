@@ -2,3 +2,6 @@ streamlit
 pandas
 fpdf
 num2words 
+
+# terminal command to install all the dependencies :- pip install -r requirements.txt
+# terminal command to run the streamlit app :- streamlit run quotation_generator.py
